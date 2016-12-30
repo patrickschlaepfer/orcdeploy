@@ -68,7 +68,7 @@
 				</executions>
 				<configuration>
 					<wsdlUrls>
-						<wsdlUrl>http://localhost:8019/OrchestraRemoteService/DeploymentService/Service?wsdl</wsdlUrl>
+						<wsdlUrl>http://chrzmdb1017.eu.hcnet.biz:7019/OrchestraRemoteService/DeploymentService/Service?wsdl</wsdlUrl>
 					</wsdlUrls>
 				</configuration>
 			</plugin>
